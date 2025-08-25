@@ -1,0 +1,16 @@
+body {
+    background-image: url(img/pexels-towfiqu-barbhuiya-3440682-11137525.jpg)
+}
+
+
+
+#contenedor{
+   background-color: rgba(81, 7, 65, 0.222);
+   height: 35em;
+   display: grid;
+
+}
+
+.pelis {
+    
+}
